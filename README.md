@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maxle5
-- 👀 I’m interested in .NET 6, Vue3, Docker, and more
+- 👀 I’m interested in .NET, Vue.js, Docker, and more
 - 🌱 I’m currently learning CI/CD in Azure Pipelines
 
 <!---
