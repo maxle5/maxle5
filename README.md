@@ -4,7 +4,7 @@
     - Rust
     - NixOs
     - NeoVim
-    - Maui (.NET)
+    - .NET Aspire
 
 <!---
 maxle5/maxle5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
